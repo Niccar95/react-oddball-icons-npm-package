@@ -1,0 +1,29 @@
+{
+  "name": "oddball-icons",
+  "version": "1.0.0",
+  "description": "Odd corporate logos to spice up your website",
+  "keywords": [
+    "icons",
+    "corporate",
+    "odd",
+    "svg"
+  ],
+  "homepage": "https://github.com/Niccar95/Oddball-Icons-package#readme",
+  "bugs": {
+    "url": "https://github.com/Niccar95/Oddball-Icons-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niccar95/Oddball-Icons-package.git"
+  },
+  "license": "ISC",
+  "author": "Niccar95",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@svgr/cli": "^8.1.0"
+  }
+}
