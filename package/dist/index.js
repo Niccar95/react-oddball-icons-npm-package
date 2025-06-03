@@ -13,3 +13,7 @@ export { default as SpeechBubbleAlt } from "./SpeechBubbleAlt";
 export { default as StapleDiagram } from "./StapleDiagram";
 export { default as StapleDiagramAlt } from "./StapleDiagramAlt";
 export { default as Suitcase } from "./Suitcase";
+
+export function isOddBall(string) {
+  return string === "oddball";
+}
