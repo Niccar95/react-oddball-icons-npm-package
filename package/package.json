@@ -1,6 +1,6 @@
 {
   "name": "react-oddball-icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Odd corporate logos to spice up your website",
   "keywords": [
     "icons",
@@ -20,7 +20,7 @@
   "author": "Niccar95",
   "type": "module",
   "main": "dist/index.js",
-  "module": "dist/index.js", 
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
     ".": {
