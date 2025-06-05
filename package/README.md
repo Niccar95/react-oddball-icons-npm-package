@@ -1,17 +1,23 @@
 # React Oddball Icons
 
-A weird corporate icon library for less serious developers who wanna give their websites some personality.
+A weird little icon set for React with corporate vibes and oddball charm. For UI's that don’t take themselves too seriously.
 
-## Installation
+## ✨ Features
 
-Install with npm:
+- ⚛️ Easy-to-use React components
+- 🎯 Fully typed, which gives them great TypeScript support out of the box
+- 🎨 Scalable SVGs with size and styling flexibility
+- 🧃 Slightly weird, mildly corporate, always charming
+
+## 🚀 Installation
+
+Install via npm:
 
 ```bash
   npm install react-oddball-icons
-  cd my-project
 ```
 
-## Documentation
+## 🧰 Usage
 
 After the installation, you can quickly get started by importing the icon you want into your project like this:
 
